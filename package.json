@@ -1,0 +1,11 @@
+{
+  "name": "fast-ua-parser",
+  "version": "1.0.0",
+  "description": "A Fast JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
